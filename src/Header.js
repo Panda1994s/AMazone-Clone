@@ -14,7 +14,7 @@ function Header() {
       <div className="header__search">
         <input type="text" className="header__searchInput" />
         <SearchIcon className="header__searchIcon" />
-      </div>
+      </div>   
       <div className="header__nav">
         <div className="header__option">
           <span className="header__optionLineOne">Hello Guest</span>

@@ -10,7 +10,7 @@ function Home() {
           alt=""
         />
       </div>
-    </div>
+    </div>   
   );
 }
 
