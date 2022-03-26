@@ -6,13 +6,19 @@
   position: sticky;
   top: 0;
   z-index: 100;
-}  
+}
 
 .header__logo {
   width: 100px;
+  padding: 5px;
   object-fit: contain;
   margin: 0 20px;
-  margin-top: 18px;
+  margin-top: 10px;
+}
+
+.header__logo:hover {
+  border: 1px solid #fff;
+  border-radius: 5px;
 }
 
 .header__search {
